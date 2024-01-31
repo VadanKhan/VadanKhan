@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VadanKhan
 - 👀 I’m interested in building a career in Applied Physics (Condensed Matter / Atomic Physics, Nuclear Physics, Photon Science) and Engineering
-- 🌱 I’m currently learning: Python, Matlab, C, C++
+- 🌱 I’m currently learning: Python, C++, Matlab, C, 
 - 📫 How to reach me: https://www.linkedin.com/in/vadankhan/
 
 <!---
